@@ -36,7 +36,7 @@ This will scan your Downloads and Desktop folders and create a searchable file i
 python build_index.py
 ```
 
-### 5. 
+### 5. Run the Agent
 ```bash
 python app.py
 ```
