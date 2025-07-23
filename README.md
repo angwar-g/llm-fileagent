@@ -40,3 +40,4 @@ python build_index.py
 ```bash
 python app.py
 ```
+Then enter your natural language prompt when asked.
